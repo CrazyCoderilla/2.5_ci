@@ -64,9 +64,9 @@
                         <rule>
                             <limits>
                                 <limit>
-                                    <counter>Branches</counter>
+                                    <counter>LINE</counter>
                                     <value>COVEREDRATIO</value>
-                                    <minimum>100%</minimum>
+                                    <minimum>50%</minimum>
                                 </limit>
                             </limits>
                         </rule>
